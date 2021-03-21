@@ -1,4 +1,4 @@
 # Linux-Widget-Script
-This shell script shows on a linux system the currently retrieved system data.
-
-You need to use the widget.sh, this is the main script.
+This is a shell script project. The main script is the widget.sh. 
+If you call this script after you can choose the other option. 
+The other options show you the Linux system data.
