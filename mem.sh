@@ -1,3 +1,3 @@
 #!/bin/bash
-# cat /proc/meminfo | grep Mem
-head -n 2 /proc/meminfo 
+
+cat /proc/meminfo | head -n2 
